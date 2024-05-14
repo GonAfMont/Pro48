@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<autos>
+    <auto id="001">
+        <marca>Ford</marca>
+        <modelo>Mustang</modelo>
+        <año>2023</año>
+        <color>rojo</color>
+        <tipo_motor>V8</tipo_motor>
+        <cilindrada>5.0</cilindrada>
+        <potencia>450</potencia>
+        <transmision>
+	        <tipo>manual</tipo>
+	        <velocidades>6</velocidades>
+        </transmision>
+    </auto>
+    <auto id="002">
+        <marca>Chevrolet</marca>
+        <modelo>Camaro</modelo>
+        <año>2024</año>
+        <color>azul</color>
+        <tipo_motor>V6</tipo_motor>
+        <cilindrada>3.6</cilindrada>
+        <potencia>335</potencia>
+        <transmision>
+	        <tipo>automática</tipo>
+	        <velocidades>10</velocidades>
+        </transmision>
+    </auto>
+</autos>
